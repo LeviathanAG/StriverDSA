@@ -189,3 +189,4 @@ int main()
     pattern18(n);
     return 0;
 }
+//fix
