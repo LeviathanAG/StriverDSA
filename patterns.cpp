@@ -189,4 +189,4 @@ int main()
     pattern14(n);
     return 0;
 }
-//fix
+//fix123
