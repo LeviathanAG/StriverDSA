@@ -186,7 +186,7 @@ int main()
     int n;
     cout << "Enter the value of n: ";
     cin >> n;
-    pattern18(n);
+    pattern14(n);
     return 0;
 }
 //fix
